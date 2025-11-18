@@ -1,4 +1,4 @@
-# SQL & Linux Concepts 
+## SQL & Linux Concepts 
 ---
 ## 1. What are Joins?
 Joins in SQL are used to **combine rows from two or more tables** based on a related column.  
