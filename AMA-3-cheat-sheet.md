@@ -28,7 +28,7 @@ However, it is recommended to use semicolons to avoid unexpected errors.
 DELETE removes rows from a table based on a condition.
 
 **Example:**
-```
+```sql
 DELETE FROM users WHERE id = 5;
 ```
 ## 5. JS is a single threaded language then how it performs asynchronous operations?
@@ -99,7 +99,7 @@ An object is a collection of key-value pairs used to store structured data.
 **Example:**
 ```js
 const user = {
-  name: "Hima",
-  age: 21
+  name: "Rama",
+  age: 20
 }
 ```
