@@ -1,5 +1,3 @@
-# JavaScript Interview Questions & Answers
-
 ## 1. What is the Event Loop?
 
 The **Event Loop** is a mechanism in JavaScript that allows it to perform **non-blocking asynchronous operations** even though JavaScript is single-threaded.
